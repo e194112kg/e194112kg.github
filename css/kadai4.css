@@ -1,0 +1,44 @@
+
+h1{
+
+    color:red;
+    font-size:50px;
+    font-weight:bold;
+    font-family: "Impact";
+    text-align: center;
+    background-color:darkorchid;
+    }
+h1#kudo{
+    font-family: impact;
+    font=size:60px;
+    text-align:center;
+    background-color:aquamarine;
+        
+}
+
+h2#gen{
+    color:red;
+    font-size:20px;
+    font-weight:bold;
+    font-family: "Impact";
+    text-align: center;
+    background-color:darkseagreen;
+}
+
+h2{
+   color:red;
+    font-size:20px;
+    font-weight:bold;
+    font-family: "Impact";
+    text-align: center;
+    background-color:cadetblue;
+}
+
+h2{
+    color:green;
+}
+
+
+body{
+    background-image: url("../images/d8322533-822989.jpeg");
+}
